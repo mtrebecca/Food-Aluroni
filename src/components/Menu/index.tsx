@@ -14,7 +14,6 @@ export default function Menu() {
     to: '/sobre'
   }];
 
-  console.log(rotas.map);
   return (
     <nav className={styles.menu}>
       <Logo />
